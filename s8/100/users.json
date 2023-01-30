@@ -1,0 +1,1201 @@
+[ {
+  "id" : 1,
+  "username" : "user1",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 2,
+  "username" : "user2",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 3,
+  "username" : "user3",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 4,
+  "username" : "user4",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 5,
+  "username" : "user5",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 6,
+  "username" : "user6",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 7,
+  "username" : "user7",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 8,
+  "username" : "user8",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 9,
+  "username" : "user9",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 10,
+  "username" : "user10",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 11,
+  "username" : "user11",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 12,
+  "username" : "user12",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 13,
+  "username" : "user13",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 14,
+  "username" : "user14",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 15,
+  "username" : "user15",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 16,
+  "username" : "user16",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 17,
+  "username" : "user17",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 18,
+  "username" : "user18",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 19,
+  "username" : "user19",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 20,
+  "username" : "user20",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 21,
+  "username" : "user21",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 22,
+  "username" : "user22",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 23,
+  "username" : "user23",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 24,
+  "username" : "user24",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 25,
+  "username" : "user25",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 26,
+  "username" : "user26",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 27,
+  "username" : "user27",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 28,
+  "username" : "user28",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 29,
+  "username" : "user29",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 30,
+  "username" : "user30",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 31,
+  "username" : "user31",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 32,
+  "username" : "user32",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 33,
+  "username" : "user33",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 34,
+  "username" : "user34",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 35,
+  "username" : "user35",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 36,
+  "username" : "user36",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 37,
+  "username" : "user37",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 38,
+  "username" : "user38",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 39,
+  "username" : "user39",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 40,
+  "username" : "user40",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 41,
+  "username" : "user41",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 42,
+  "username" : "user42",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 43,
+  "username" : "user43",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 44,
+  "username" : "user44",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 45,
+  "username" : "user45",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 46,
+  "username" : "user46",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 47,
+  "username" : "user47",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 48,
+  "username" : "user48",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 49,
+  "username" : "user49",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 50,
+  "username" : "user50",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 51,
+  "username" : "user51",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 52,
+  "username" : "user52",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 53,
+  "username" : "user53",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 54,
+  "username" : "user54",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 55,
+  "username" : "user55",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 56,
+  "username" : "user56",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 57,
+  "username" : "user57",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 58,
+  "username" : "user58",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 59,
+  "username" : "user59",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 60,
+  "username" : "user60",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 61,
+  "username" : "user61",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 62,
+  "username" : "user62",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 63,
+  "username" : "user63",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 64,
+  "username" : "user64",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 65,
+  "username" : "user65",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 66,
+  "username" : "user66",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 67,
+  "username" : "user67",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 68,
+  "username" : "user68",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 69,
+  "username" : "user69",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 70,
+  "username" : "user70",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 71,
+  "username" : "user71",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 72,
+  "username" : "user72",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 73,
+  "username" : "user73",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 74,
+  "username" : "user74",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 75,
+  "username" : "user75",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 76,
+  "username" : "user76",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 77,
+  "username" : "user77",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 78,
+  "username" : "user78",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 79,
+  "username" : "user79",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 80,
+  "username" : "user80",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 81,
+  "username" : "user81",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 82,
+  "username" : "user82",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 83,
+  "username" : "user83",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 84,
+  "username" : "user84",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 85,
+  "username" : "user85",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 86,
+  "username" : "user86",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 87,
+  "username" : "user87",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 88,
+  "username" : "user88",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 89,
+  "username" : "user89",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 90,
+  "username" : "user90",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 91,
+  "username" : "user91",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 92,
+  "username" : "user92",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 93,
+  "username" : "user93",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 94,
+  "username" : "user94",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 95,
+  "username" : "user95",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 96,
+  "username" : "user96",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 97,
+  "username" : "user97",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 98,
+  "username" : "user98",
+  "password" : "password",
+  "type" : "REGULAR",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 99,
+  "username" : "user99",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+}, {
+  "id" : 100,
+  "username" : "user100",
+  "password" : "password",
+  "type" : "MALICIOUS",
+  "authorities" : [ {
+    "authority" : "ROLE_USER"
+  } ],
+  "enabled" : true,
+  "accountNonExpired" : true,
+  "accountNonLocked" : true,
+  "credentialsNonExpired" : true
+} ]
